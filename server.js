@@ -1,3 +1,8 @@
+/*
+    server.js file
+        - Nem kell módosítani
+*/
+
 const express = require("express");
 const mariadb = require("mariadb");
 
